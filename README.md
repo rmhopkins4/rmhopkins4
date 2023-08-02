@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+
+- I'm currently studying Computer Science and Linguistics at the University of Maryland
+- How to reach me:
+    - Personal E-mail: rmhopkins4@gmail.com
+    - University E-mail: hopkins4@umd.edu
+    - LinkedIn: https://www.linkedin.com/in/robert-hopkins-a5860224b/
+- Ask me about: making constructed languages (conlangs)!
+- Pronouns: he/him
+- Fun fact: I'm a twin!
 
 <!--
 **rmhopkins4/rmhopkins4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
