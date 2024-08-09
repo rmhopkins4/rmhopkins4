@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello 👋
 
 - I'm currently studying Computer Science and Linguistics at the University of Maryland
 - How to reach me:
